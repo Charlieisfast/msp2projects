@@ -1,3 +1,12 @@
 {
-  "files": {}
+  "files": {
+    "project03_MathCalculator/main.py": [
+      {
+        "id": "a508a54c-233a-4ce0-849c-03895217eb63",
+        "line": 1,
+        "version": 8,
+        "index": 0
+      }
+    ]
+  }
 }

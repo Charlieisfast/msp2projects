@@ -7,7 +7,7 @@ if have_other_job == 'y':
   Other_jobs = input("What other jobs did you have?")
   favorite_color = input("whats your favorite color?")
   college = input("What college did you go to?")
-  print(f"Interview Report\n age: {age}\n School: {school}\n Other Jobs: {other_jobs}\n College: {college}")
+  print(f"Interview Report\n age: {age}\n School: {school}\n Other Jobs: {Other_jobs}\n College: {college}")
 elif have_other_job == 'n':
   favorite_color = input("whats your favorite color?")
   college = input("What college did you go to?")
